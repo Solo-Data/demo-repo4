@@ -10,3 +10,4 @@ watch tutorial on YouTube.
 ## Local Development
 
 1. O-pen index.html in you browser.
+2. 1-pen index.html in you browser.
